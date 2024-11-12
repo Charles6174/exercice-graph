@@ -4,3 +4,8 @@ Ajout Quatrieme noeud sur branche main
 création noeud branche-1
 
 merge branch-1?
+Ajout premier noeud sur branche 2
+
+Ajout deuxième noeud sur branche 2
+
+merge branch-2
